@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon_</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icon_" transform="translate(1.000000, 1.000000)" stroke="#00A8A5" stroke-width="2">
+            <path d="M41,26 C41,20.4771525 36.5228475,16 31,16" id="Path"></path>
+            <path d="M21,26 C21,31.5228475 25.4771525,36 31,36" id="Path"></path>
+            <path d="M46.0000068,26 C46.0071891,18.3699866 40.2854943,11.9503092 32.7049233,11.0830731 C25.1243523,10.2158369 18.1006147,15.1774051 16.3843866,22.6119002 C14.6681585,30.0463952 18.8063524,37.5846577 26,40.128 L26,43 L36,43 L36,40.128 C41.9898235,38.0128209 45.9964075,32.3523189 46.0000068,26 Z" id="Path"></path>
+            <rect id="Rectangle" x="24" y="43" width="14" height="4"></rect>
+            <polyline id="Path" points="25 47 25 49 27 51 35 51 37 49 37 47"></polyline>
+            <polyline id="Path" points="31 43 31 26 35 26 35 23"></polyline>
+            <polyline id="Path" points="31 26 27 26 27 23"></polyline>
+            <polyline id="Path" points="28 9 28 6 25 6 31 0 37 6 34 6 34 9"></polyline>
+            <polyline id="Path" points="34 53 34 56 37 56 31 62 25 56 28 56 28 53"></polyline>
+            <polyline id="Path" points="49 28 56 28 56 25 62 31 56 37 56 34 47 34"></polyline>
+            <polyline id="Path" points="15 34 6 34 6 37 0 31 6 25 6 28 13 28"></polyline>
+            <polyline id="Path" points="41 45 46 50 44 52 53 52 53 43 51 45 44 38"></polyline>
+            <polyline id="Path" points="21 45 16 50 18 52 9 52 9 43 11 45 18 38"></polyline>
+            <polyline id="Path" points="42 12 46 8 44 6 53 6 53 15 51 13 47 17"></polyline>
+            <polyline id="Path" points="20 12 16 8 18 6 9 6 9 15 11 13 15 17"></polyline>
+        </g>
+    </g>
+</svg>
